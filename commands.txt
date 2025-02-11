@@ -1,0 +1,5 @@
+create environment using following commands:
+
+    conda create -p venv python==3.12 #create environment named 'venv' in the present working directory.
+    or
+    conda create -n venv python==3.12 #create environment named 'venv' in the directory where the anaconda is installed.
